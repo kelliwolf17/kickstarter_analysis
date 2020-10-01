@@ -1,2 +1,3 @@
 # kickstarter_analysis
-Performing analysis of Kickstarter data using module
+An Analysis of the Kickstarter Campaign
+Using the module for class, a statisitcal anaylsis was performed for Louise's Kickstarter
