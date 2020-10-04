@@ -6,7 +6,9 @@ data-1-1-3-StarterBook.xlsx contains the activities listed in the module (in cas
 ## Overview of Project
 The purpose of this exercise was to determine how Louise's campaign faired in comparison to other Kickstarter campaigns based on launch date and fundraising goals.
 ## Analysis and Challenges
+### Outcomes Based on Launch Date
 Two different analyses were performed. The first was to determine the outcomes based on Launch Date. A new columnn had to be created to further filter the data 'by year' as opposed to 'by date'. I faced an issue while creating this column because the formula Years() did not want to populate all for every row. I had to mnanually drag the formula down. A pivot table was created to visualize how many theater campaigns were successful, failed, or canceled month to month. Please see Theater_Outcomes_vs_Launch.png for the plot.
+### Outcomes Based on Goals
 The second analysis performed was a separate sheet to determine the outcomes based on goals. For set monetary ranges, the data from "Kickstarter" was pulled to count the successful, failed, and canceled play campaigns. From that data, one could then determine the total projects in those monetary ranges and for those set outcome descriptions. Then percentages were calculated for each outcome. No challenges were faced while creating this sheet. Please see Outcomes_vs_Goals.png for the plot.
 ## Results
 ### Conclusions for Outcomes Based on Launch Date
